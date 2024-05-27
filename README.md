@@ -10,7 +10,6 @@
 <a href="[https://github.com/Nilon123456789/Gustnotes](https://github.com/LRIMa-Qc/iot_obj-sicro-sensor)">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LRIMa-Qc&repo=iot_obj-sicro-sensor&theme=dark&hide_border=false&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f" />
 </a>
-<a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://github.com/Nilon123456789/firmetix">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nilon123456789&repo=Firmetix&theme=dark&hide_border=false&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f" />
 </a>
