@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student in computer sciences
+🔭 I’m currently a student in computer engineering
 
 🌱 I love to try different things and develop solutions to help others
 
