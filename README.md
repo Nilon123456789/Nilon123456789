@@ -25,7 +25,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://pypi.org/user/nilon123456789/) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) [![Garmin](https://img.shields.io/badge/Garmin-black?style=for-the-badge&logo=garmin)](https://apps.garmin.com/en-US/developer/55fadcd5-a983-4821-abfe-b8383ea92991/apps) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) [![Printables](https://img.shields.io/badge/printables-gray.svg?style=for-the-badge&logo=printables)](https://www.printables.com/@Nilon12345678_108003)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nilon123456789&theme=dark&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilon123456789&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ---
